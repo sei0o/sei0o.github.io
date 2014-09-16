@@ -44,6 +44,11 @@ main {
   text-align: center;
   background-image: linear-gradient(to bottom, #17bcde 0%, #1b5bde 100%);
 }
+#root_header a:link, #root_header a:visited, #root_header a:focus, #root_header a:active {
+  text-decoration: none;
+  color: white;
+  font-family: "mplus-1p-bold", "Helvetica Neue", sans-serif;
+}
 
 #root_footer {
   padding: 10px;
