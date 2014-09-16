@@ -1,4 +1,6 @@
 name: 地上実験室
+description: Canopusとか
+author: sei0o
 
 markdown: kramdown
 encoding: utf-8
